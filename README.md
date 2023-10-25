@@ -1,1 +1,1 @@
-# Sentimental-Analysis..
+# AI Based Diabetes Prediction System
